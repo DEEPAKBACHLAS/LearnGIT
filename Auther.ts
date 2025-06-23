@@ -1,2 +1,5 @@
-var data=10;
-alert("this is first change");
+export class autherfile
+{
+    name:any="deepak singh";
+   
+}
